@@ -1,6 +1,6 @@
 ## We are AlmaLinux
 
-AlmaLinux OS is replacing CentOS as the downstream rebuild of RedHat Enterprise Linux. 
+AlmaLinux OS is replacing CentOS as the downstream rebuild of Red Hat Enterprise Linux. 
 
 A healthy community is required for any open source project, and we are working on expanding ours. We will be sharing our infrastructure, event, and other outreach and improvement plans on the [AlmaLinux OS blog](https://almalinux.org/blog) soon!
 
